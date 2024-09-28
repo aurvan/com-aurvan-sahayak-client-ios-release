@@ -1,0 +1,1476 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ATKit",
+        "printedName": "ATKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ATKit",
+        "printedName": "ATKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient"
+      },
+      {
+        "kind": "Import",
+        "name": "ATKit",
+        "printedName": "ATKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ATKit",
+        "printedName": "ATKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ATKit",
+        "printedName": "ATKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ATKit",
+        "printedName": "ATKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ATKit",
+        "printedName": "ATKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ATKit",
+        "printedName": "ATKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ATKit",
+        "printedName": "ATKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UniformTypeIdentifiers",
+        "printedName": "UniformTypeIdentifiers",
+        "declKind": "Import",
+        "moduleName": "SahayakClient"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ATKit",
+        "printedName": "ATKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SahayakClientUtility",
+        "printedName": "SahayakClientUtility",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SahayakClientUtility",
+                "printedName": "SahayakClient.SahayakClientUtility",
+                "usr": "s:13SahayakClient0aB7UtilityC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:13SahayakClient0aB7UtilityC6sharedACvpZ",
+            "mangledName": "$s13SahayakClient0aB7UtilityC6sharedACvpZ",
+            "moduleName": "SahayakClient",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SahayakClientUtility",
+                    "printedName": "SahayakClient.SahayakClientUtility",
+                    "usr": "s:13SahayakClient0aB7UtilityC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13SahayakClient0aB7UtilityC6sharedACvgZ",
+                "mangledName": "$s13SahayakClient0aB7UtilityC6sharedACvgZ",
+                "moduleName": "SahayakClient",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SahayakClientUtility",
+                    "printedName": "SahayakClient.SahayakClientUtility",
+                    "usr": "s:13SahayakClient0aB7UtilityC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13SahayakClient0aB7UtilityC6sharedACvsZ",
+                "mangledName": "$s13SahayakClient0aB7UtilityC6sharedACvsZ",
+                "moduleName": "SahayakClient",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13SahayakClient0aB7UtilityC6sharedACvMZ",
+                "mangledName": "$s13SahayakClient0aB7UtilityC6sharedACvMZ",
+                "moduleName": "SahayakClient",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "setup",
+            "printedName": "setup(apiKey:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<(), any Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<(), any Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "any Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13SahayakClient0aB7UtilityC5setup6apiKey10completionySS_ys6ResultOyyts5Error_pGctF",
+            "mangledName": "$s13SahayakClient0aB7UtilityC5setup6apiKey10completionySS_ys6ResultOyyts5Error_pGctF",
+            "moduleName": "SahayakClient",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "version",
+            "printedName": "version",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:13SahayakClient0aB7UtilityC7versionSSvp",
+            "mangledName": "$s13SahayakClient0aB7UtilityC7versionSSvp",
+            "moduleName": "SahayakClient",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13SahayakClient0aB7UtilityC7versionSSvg",
+                "mangledName": "$s13SahayakClient0aB7UtilityC7versionSSvg",
+                "moduleName": "SahayakClient",
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "environmentSignet",
+            "printedName": "environmentSignet",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:13SahayakClient0aB7UtilityC17environmentSignetSSvp",
+            "mangledName": "$s13SahayakClient0aB7UtilityC17environmentSignetSSvp",
+            "moduleName": "SahayakClient",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13SahayakClient0aB7UtilityC17environmentSignetSSvg",
+                "mangledName": "$s13SahayakClient0aB7UtilityC17environmentSignetSSvg",
+                "moduleName": "SahayakClient",
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "locale",
+            "printedName": "locale",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Locale",
+                "printedName": "Foundation.Locale",
+                "usr": "s:10Foundation6LocaleV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:13SahayakClient0aB7UtilityC6locale10Foundation6LocaleVvp",
+            "mangledName": "$s13SahayakClient0aB7UtilityC6locale10Foundation6LocaleVvp",
+            "moduleName": "SahayakClient",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Locale",
+                    "printedName": "Foundation.Locale",
+                    "usr": "s:10Foundation6LocaleV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13SahayakClient0aB7UtilityC6locale10Foundation6LocaleVvg",
+                "mangledName": "$s13SahayakClient0aB7UtilityC6locale10Foundation6LocaleVvg",
+                "moduleName": "SahayakClient",
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Locale",
+                    "printedName": "Foundation.Locale",
+                    "usr": "s:10Foundation6LocaleV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13SahayakClient0aB7UtilityC6locale10Foundation6LocaleVvs",
+                "mangledName": "$s13SahayakClient0aB7UtilityC6locale10Foundation6LocaleVvs",
+                "moduleName": "SahayakClient",
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13SahayakClient0aB7UtilityC6locale10Foundation6LocaleVvM",
+                "mangledName": "$s13SahayakClient0aB7UtilityC6locale10Foundation6LocaleVvM",
+                "moduleName": "SahayakClient",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:13SahayakClient0aB7UtilityC",
+        "mangledName": "$s13SahayakClient0aB7UtilityC",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "Final",
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ATKit",
+        "printedName": "ATKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SahayakClient"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SahayakClient"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "SahayakClient"
+      },
+      {
+        "kind": "Import",
+        "name": "DeveloperToolsSupport",
+        "printedName": "DeveloperToolsSupport",
+        "declKind": "Import",
+        "moduleName": "SahayakClient"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/DataManager\/DataContractManagerRestApi.swift",
+      "kind": "StringLiteral",
+      "offset": 260,
+      "length": 30,
+      "value": "\"Unknown data contract error.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/DataManager\/DataContractManagerRestApi.swift",
+      "kind": "StringLiteral",
+      "offset": 376,
+      "length": 37,
+      "value": "\"Invalid outcome response structure.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Models\/PagedList.swift",
+      "kind": "IntegerLiteral",
+      "offset": 119,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Models\/PagedList.swift",
+      "kind": "IntegerLiteral",
+      "offset": 145,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Models\/PagedList.swift",
+      "kind": "IntegerLiteral",
+      "offset": 169,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Models\/PagedList.swift",
+      "kind": "IntegerLiteral",
+      "offset": 199,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Modules\/Ticket\/SearchTicketController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 551,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Modules\/Ticket\/SearchTicketController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 598,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Modules\/Ticket\/SearchTicketController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 738,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/ConfigurationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 592,
+      "length": 31,
+      "value": "\"com.aurvan.sahayak.client.ios\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/ConfigurationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1230,
+      "length": 42,
+      "value": "\"https:\/\/sahayak-api.aurvan.com\/index.php\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/ConfigurationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1511,
+      "length": 27,
+      "value": "\"http:\/\/sahayak.aurvan.com\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/ConfigurationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1663,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/ConfigurationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1861,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/ConfigurationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 2019,
+      "length": 34,
+      "value": "\"I!Wex!nik0N9cy2b$EWQ6S8eGtHAIqZ8\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/ConfigurationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 2102,
+      "length": 18,
+      "value": "\"v19PU7r50xvBBr1y\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/ConfigurationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2304,
+      "length": 2,
+      "value": "15"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/ConfigurationManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2309,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/UiComponents\/AppFileThumbnailView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 406,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/UiComponents\/AppFileThumbnailView.swift",
+      "kind": "StringLiteral",
+      "offset": 79,
+      "length": 20,
+      "value": "\"SahayakClient.AppFileThumbnailView\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/CacheManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 268,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/CacheManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 559,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Modules\/ForceUpdate\/ForceUpdateView.swift",
+      "kind": "StringLiteral",
+      "offset": 413,
+      "length": 15,
+      "value": "\"SahayakClient.ForceUpdateView\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/DataManager\/DataTransferManagerRestApi.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1407,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Models\/Session.swift",
+      "kind": "StringLiteral",
+      "offset": 2323,
+      "length": 5,
+      "value": "\"ios\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Modules\/Ticket\/TicketDetailsMessageTableCellView.swift",
+      "kind": "FloatLiteral",
+      "offset": 847,
+      "length": 4,
+      "value": "24.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Models\/ProductSpecification.swift",
+      "kind": "IntegerLiteral",
+      "offset": 214,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Models\/ProductSpecification.swift",
+      "kind": "IntegerLiteral",
+      "offset": 260,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Models\/ProductSpecification.swift",
+      "kind": "BooleanLiteral",
+      "offset": 305,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Modules\/Ticket\/TicketDetailsController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 921,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/UiComponents\/AppFileField.swift",
+      "kind": "BooleanLiteral",
+      "offset": 313,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/UiComponents\/AppFileField.swift",
+      "kind": "StringLiteral",
+      "offset": 101,
+      "length": 12,
+      "value": "\"SahayakClient.AppFileField\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/LocalizationManager\/LocalizationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1095,
+      "length": 4,
+      "value": "\"en\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/SahayakClientUtility.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1731,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/BaseController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 156,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/BaseController.swift",
+      "kind": "FloatLiteral",
+      "offset": 380,
+      "length": 4,
+      "value": "50.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/BaseController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 579,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/BaseController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 585,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/BaseController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 636,
+      "length": 2,
+      "value": "44"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/ThemeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 214,
+      "length": 19,
+      "value": "\"TextColorOvertone\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/ThemeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 364,
+      "length": 21,
+      "value": "\"TextColorNormaltone\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/ThemeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 515,
+      "length": 20,
+      "value": "\"TextColorUndertone\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/ThemeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 676,
+      "length": 22,
+      "value": "\"TextColorPlaceholder\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/ThemeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 838,
+      "length": 21,
+      "value": "\"PageBackgroundColor\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/ThemeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 991,
+      "length": 13,
+      "value": "\"ShadowColor\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/ThemeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1127,
+      "length": 13,
+      "value": "\"AccentColor\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/ThemeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1266,
+      "length": 20,
+      "value": "\"SeparatorLineColor\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/ThemeManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 1413,
+      "length": 3,
+      "value": "5.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/ThemeManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 1455,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/ThemeManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 1523,
+      "length": 4,
+      "value": "10.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/ThemeManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 1583,
+      "length": 4,
+      "value": "12.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/ThemeManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 1644,
+      "length": 4,
+      "value": "14.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/ThemeManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 1713,
+      "length": 4,
+      "value": "14.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/ThemeManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 1773,
+      "length": 4,
+      "value": "16.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/ThemeManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 1841,
+      "length": 4,
+      "value": "16.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/ThemeManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 1906,
+      "length": 4,
+      "value": "18.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/ThemeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1984,
+      "length": 13,
+      "value": "\"Placeholder\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/com-aurvan-sahayak-client-ios\/com-aurvan-sahayak-client-ios\/src\/SahayakClient\/SahayakClient\/Collaborators\/ThemeManager.swift",
+      "kind": "StringLiteral",
+      "offset": 2127,
+      "length": 15,
+      "value": "\"FileIconBlank\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/SahayakClient-bfypqkmlaneirmfjcxullonqyigz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SahayakClient Production\/IntermediateBuildFilesPath\/SahayakClient.build\/Production Release-iphoneos\/SahayakClient.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 625,
+      "length": 13,
+      "value": "\"AccentColor\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/SahayakClient-bfypqkmlaneirmfjcxullonqyigz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SahayakClient Production\/IntermediateBuildFilesPath\/SahayakClient.build\/Production Release-iphoneos\/SahayakClient.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 781,
+      "length": 21,
+      "value": "\"PageBackgroundColor\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/SahayakClient-bfypqkmlaneirmfjcxullonqyigz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SahayakClient Production\/IntermediateBuildFilesPath\/SahayakClient.build\/Production Release-iphoneos\/SahayakClient.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 943,
+      "length": 20,
+      "value": "\"SeparatorLineColor\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/SahayakClient-bfypqkmlaneirmfjcxullonqyigz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SahayakClient Production\/IntermediateBuildFilesPath\/SahayakClient.build\/Production Release-iphoneos\/SahayakClient.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1090,
+      "length": 13,
+      "value": "\"ShadowColor\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/SahayakClient-bfypqkmlaneirmfjcxullonqyigz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SahayakClient Production\/IntermediateBuildFilesPath\/SahayakClient.build\/Production Release-iphoneos\/SahayakClient.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1251,
+      "length": 21,
+      "value": "\"TextColorNormaltone\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/SahayakClient-bfypqkmlaneirmfjcxullonqyigz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SahayakClient Production\/IntermediateBuildFilesPath\/SahayakClient.build\/Production Release-iphoneos\/SahayakClient.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1416,
+      "length": 19,
+      "value": "\"TextColorOvertone\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/SahayakClient-bfypqkmlaneirmfjcxullonqyigz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SahayakClient Production\/IntermediateBuildFilesPath\/SahayakClient.build\/Production Release-iphoneos\/SahayakClient.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1585,
+      "length": 22,
+      "value": "\"TextColorPlaceholder\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/SahayakClient-bfypqkmlaneirmfjcxullonqyigz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SahayakClient Production\/IntermediateBuildFilesPath\/SahayakClient.build\/Production Release-iphoneos\/SahayakClient.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1753,
+      "length": 20,
+      "value": "\"TextColorUndertone\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/SahayakClient-bfypqkmlaneirmfjcxullonqyigz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SahayakClient Production\/IntermediateBuildFilesPath\/SahayakClient.build\/Production Release-iphoneos\/SahayakClient.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2032,
+      "length": 24,
+      "value": "\"ChevronLeftAlignedLeft\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/SahayakClient-bfypqkmlaneirmfjcxullonqyigz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SahayakClient Production\/IntermediateBuildFilesPath\/SahayakClient.build\/Production Release-iphoneos\/SahayakClient.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2176,
+      "length": 7,
+      "value": "\"Close\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/SahayakClient-bfypqkmlaneirmfjcxullonqyigz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SahayakClient Production\/IntermediateBuildFilesPath\/SahayakClient.build\/Production Release-iphoneos\/SahayakClient.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2321,
+      "length": 16,
+      "value": "\"DeleteFileIcon\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/SahayakClient-bfypqkmlaneirmfjcxullonqyigz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SahayakClient Production\/IntermediateBuildFilesPath\/SahayakClient.build\/Production Release-iphoneos\/SahayakClient.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2473,
+      "length": 15,
+      "value": "\"FileIconBlank\""
+    },
+    {
+      "filePath": "\/Users\/runner\/Library\/Developer\/Xcode\/DerivedData\/SahayakClient-bfypqkmlaneirmfjcxullonqyigz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/SahayakClient Production\/IntermediateBuildFilesPath\/SahayakClient.build\/Production Release-iphoneos\/SahayakClient.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2620,
+      "length": 13,
+      "value": "\"Placeholder\""
+    }
+  ]
+}

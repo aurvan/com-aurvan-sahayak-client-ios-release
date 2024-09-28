@@ -1,0 +1,6 @@
+framework module SahayakClient {
+  umbrella header "SahayakClient.h"
+  export *
+
+  module * { export * }
+}
